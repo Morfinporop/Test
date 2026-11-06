@@ -1,0 +1,6 @@
+"whiterp"
+{
+    "base"      "sandbox"
+    "title"     "WhiteRP"
+    "menusystem" "1"
+}
