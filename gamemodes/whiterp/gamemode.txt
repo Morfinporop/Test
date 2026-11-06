@@ -1,6 +1,14 @@
 "whiterp"
 {
-    "base"      "sandbox"
-    "title"     "WhiteRP"
-    "menusystem" "1"
+    "base"          "sandbox"
+    "title"         "WhiteRP"
+    "version"       "0.1.0"
+    "category"      "rp"
+    "menusystem"    "1"
+    "author_name"   "WhiteRP Team"
+    "author_email"  ""
+    "author_url"    ""
+    "icon"          ""
+    "info"          "Standalone roleplay gamemode"
+    "hide"          "0"
 }
